@@ -14,14 +14,14 @@ Aspiring Full-Stack Developer, Project Manager, and Entrepreneur with experience
 
 ### 1. Elvio – SME Digital Solutions Platform
 - **Description:** A subscription-based platform offering websites, marketing, and digital tools for small businesses.
-- **Tech Stack:** ReactJS, Node.js, MySQL
-- **GitHub Link:** https://github.com/valerieaceron/elvio (replace if needed)
+- **Tech Stack:** HTML, CSS, Javascript
+- **GitHub Link:** https://github.com/valerieaceron/elvio_project
 
 
 ## 💡 Skills Summary
 
-- **Programming:** JavaScript  
-- **Frameworks/Libraries:** ReactJS, Node.js  
+- **Programming:** HTML, CSS, Javascript 
+- **Frameworks/Libraries:** ReactJS, Node.js, Wordpress  
 - **Database:** MySQL  
 - **Tools:** Git, GitHub  
-- **Other Skills:** REST API Development, Deployment (Hostinger)
+- **Other Skills:** REST API Development, Deployment (Hostinger), 
