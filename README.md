@@ -6,7 +6,7 @@ Aspiring Full-Stack Developer, Project Manager, and Entrepreneur with experience
 ---
 
 ## 📄 CV
-[Download My CV](./Valerie_Michelle_Aceron_2026.pdf)
+[Download My CV](./Valerie_Aceron_CV.pdf)
 
 ---
 
