@@ -17,6 +17,10 @@ Aspiring Full-Stack Developer, Project Manager, and Entrepreneur with experience
 - **Tech Stack:** HTML, CSS, Javascript
 - **GitHub Link:** https://github.com/valerieaceron/elvio_project
 
+### 2. Berry & Cream – E-commerce website
+- **Description:** A website that the customer can buy online cakes & pastry.
+- **Tech Stack:** HTML, CSS, Javascript
+- **GitHub Link:** https://github.com/valerieaceron/Berry-Cream
 
 ## 💡 Skills Summary
 
